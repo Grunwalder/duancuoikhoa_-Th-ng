@@ -9,3 +9,7 @@
 .order-input{
     display: flex;
 } */
+.order-input{
+    display: flex;
+    justify-content: center;
+}
