@@ -13,3 +13,19 @@
     display: flex;
     justify-content: center;
 }
+/* .icon-input{
+    width: 278px;
+    height: 50px;
+} */
+ .icon-input{
+    background-color: whitesmoke;
+   color: black;
+}
+.order-contain {
+    /* position: relative; */
+    position: relative;
+    
+    top: -60px;
+    
+}
+
