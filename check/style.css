@@ -1,6 +1,9 @@
 :root{
     box-sizing: border-box;
 }
+#nav-all{
+    background-color: white !important;
+}
 .btn-menu a{
     color: aliceblue;
     text-decoration: none;
