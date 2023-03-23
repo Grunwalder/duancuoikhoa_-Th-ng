@@ -47,7 +47,8 @@
     height: 370px;
     border: 1px solid;
     margin-left: 150px;
-    margin-right: -40px;
+    /* margin-right: -40px; */
+    
     border-color: white;
 }
 .anh2{
